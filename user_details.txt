@@ -1,0 +1,100 @@
+Name: k
+Age: 23
+Email: abdulwahid@gmail,com
+Password: h
+--------------------------------
+Name: maleeha
+Age: 12
+Email: makmc
+Password: hi
+--------------------------------
+Name: hi
+Age: mi
+Email: mak
+Password: ho
+--------------------------------
+Name: f
+Age: 4
+Email: g
+Password: 7
+--------------------------------
+Name: y
+Age: 6
+Email: j
+Password: 6
+--------------------------------
+Name: t
+Age: 5
+Email: t
+Password: 6
+--------------------------------
+Name: f
+Age: 4
+Email: f
+Password: 4
+--------------------------------
+Name: g
+Age: d
+Email: f
+Password: d
+--------------------------------
+Name: f
+Age: 0
+Email: g
+Password: k
+--------------------------------
+Name: h
+Age: h
+Email: h
+Password: h
+--------------------------------
+Name: h
+Age: h
+Email: h
+Password: h
+--------------------------------
+Name: h
+Age: h
+Email: h
+Password: h
+--------------------------------
+Name: h
+Age: h
+Email: 
+Password: h
+--------------------------------
+Name: h
+Age: h
+Email: h
+Password: h
+--------------------------------
+Name: f
+Age: f
+Email: f
+Password: f
+--------------------------------
+Name: f
+Age: f
+Email: f
+Password: f
+--------------------------------
+Name: j
+Age: j
+Email: j
+Password: j
+--------------------------------
+Name: karam
+Age: 2
+Email: karam@gmail.com
+Password: karam2
+--------------------------------
+Name: f
+Age: f
+Email: f
+Password: f
+--------------------------------
+Name: o
+Age: o
+Email: o
+Password: o
+--------------------------------
